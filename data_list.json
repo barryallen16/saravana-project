@@ -1,0 +1,3110 @@
+[
+  {
+    "image_path": "dataset1/helmet fake/1.jpg",
+    "part_type": "helmet",
+    "claimed_label": "fake",
+    "folder_name": "helmet fake",
+    "filename": "1.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug fake/65.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "fake",
+    "folder_name": "spark plug fake",
+    "filename": "65.jpg"
+  },
+  {
+    "image_path": "dataset1/air filter fake/3.jpg",
+    "part_type": "air_filter",
+    "claimed_label": "fake",
+    "folder_name": "air filter fake",
+    "filename": "3.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug fake/67.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "fake",
+    "folder_name": "spark plug fake",
+    "filename": "67.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug og/63.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "real",
+    "folder_name": "spark plug og",
+    "filename": "63.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet og/52.jpg",
+    "part_type": "helmet",
+    "claimed_label": "real",
+    "folder_name": "helmet og",
+    "filename": "52.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug og/9.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "real",
+    "folder_name": "spark plug og",
+    "filename": "9.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug fake/40.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "fake",
+    "folder_name": "spark plug fake",
+    "filename": "40.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug og/94.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "real",
+    "folder_name": "spark plug og",
+    "filename": "94.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet fake/74.jpg",
+    "part_type": "helmet",
+    "claimed_label": "fake",
+    "folder_name": "helmet fake",
+    "filename": "74.jpg"
+  },
+  {
+    "image_path": "dataset1/air filter og/19.jpg",
+    "part_type": "air_filter",
+    "claimed_label": "real",
+    "folder_name": "air filter og",
+    "filename": "19.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug fake/47.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "fake",
+    "folder_name": "spark plug fake",
+    "filename": "47.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet og/37.jpg",
+    "part_type": "helmet",
+    "claimed_label": "real",
+    "folder_name": "helmet og",
+    "filename": "37.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet og/38.jpg",
+    "part_type": "helmet",
+    "claimed_label": "real",
+    "folder_name": "helmet og",
+    "filename": "38.jpg"
+  },
+  {
+    "image_path": "dataset1/air filter fake/28.jpg",
+    "part_type": "air_filter",
+    "claimed_label": "fake",
+    "folder_name": "air filter fake",
+    "filename": "28.jpg"
+  },
+  {
+    "image_path": "dataset1/air filter og/76.jpg",
+    "part_type": "air_filter",
+    "claimed_label": "real",
+    "folder_name": "air filter og",
+    "filename": "76.jpg"
+  },
+  {
+    "image_path": "dataset1/air filter fake/30.jpg",
+    "part_type": "air_filter",
+    "claimed_label": "fake",
+    "folder_name": "air filter fake",
+    "filename": "30.jpg"
+  },
+  {
+    "image_path": "dataset1/air filter og/32.jpg",
+    "part_type": "air_filter",
+    "claimed_label": "real",
+    "folder_name": "air filter og",
+    "filename": "32.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug og/85.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "real",
+    "folder_name": "spark plug og",
+    "filename": "85.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug fake/2.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "fake",
+    "folder_name": "spark plug fake",
+    "filename": "2.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug og/88.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "real",
+    "folder_name": "spark plug og",
+    "filename": "88.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug og/95.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "real",
+    "folder_name": "spark plug og",
+    "filename": "95.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug fake/13.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "fake",
+    "folder_name": "spark plug fake",
+    "filename": "13.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet og/25.jpg",
+    "part_type": "helmet",
+    "claimed_label": "real",
+    "folder_name": "helmet og",
+    "filename": "25.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug fake/43.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "fake",
+    "folder_name": "spark plug fake",
+    "filename": "43.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet og/14.jpg",
+    "part_type": "helmet",
+    "claimed_label": "real",
+    "folder_name": "helmet og",
+    "filename": "14.jpg"
+  },
+  {
+    "image_path": "dataset1/air filter fake/6.jpg",
+    "part_type": "air_filter",
+    "claimed_label": "fake",
+    "folder_name": "air filter fake",
+    "filename": "6.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug og/81.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "real",
+    "folder_name": "spark plug og",
+    "filename": "81.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet fake/81.jpg",
+    "part_type": "helmet",
+    "claimed_label": "fake",
+    "folder_name": "helmet fake",
+    "filename": "81.jpg"
+  },
+  {
+    "image_path": "dataset1/air filter og/34.jpg",
+    "part_type": "air_filter",
+    "claimed_label": "real",
+    "folder_name": "air filter og",
+    "filename": "34.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet og/79.jpg",
+    "part_type": "helmet",
+    "claimed_label": "real",
+    "folder_name": "helmet og",
+    "filename": "79.jpg"
+  },
+  {
+    "image_path": "dataset1/air filter fake/22.jpg",
+    "part_type": "air_filter",
+    "claimed_label": "fake",
+    "folder_name": "air filter fake",
+    "filename": "22.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug og/46.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "real",
+    "folder_name": "spark plug og",
+    "filename": "46.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug og/71.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "real",
+    "folder_name": "spark plug og",
+    "filename": "71.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet fake/56.jpg",
+    "part_type": "helmet",
+    "claimed_label": "fake",
+    "folder_name": "helmet fake",
+    "filename": "56.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet og/21.jpg",
+    "part_type": "helmet",
+    "claimed_label": "real",
+    "folder_name": "helmet og",
+    "filename": "21.jpg"
+  },
+  {
+    "image_path": "dataset1/air filter og/17.jpg",
+    "part_type": "air_filter",
+    "claimed_label": "real",
+    "folder_name": "air filter og",
+    "filename": "17.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug fake/11.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "fake",
+    "folder_name": "spark plug fake",
+    "filename": "11.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet og/50.jpg",
+    "part_type": "helmet",
+    "claimed_label": "real",
+    "folder_name": "helmet og",
+    "filename": "50.jpg"
+  },
+  {
+    "image_path": "dataset1/air filter fake/25.jpg",
+    "part_type": "air_filter",
+    "claimed_label": "fake",
+    "folder_name": "air filter fake",
+    "filename": "25.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet fake/37.jpg",
+    "part_type": "helmet",
+    "claimed_label": "fake",
+    "folder_name": "helmet fake",
+    "filename": "37.jpg"
+  },
+  {
+    "image_path": "dataset1/air filter og/67.jpg",
+    "part_type": "air_filter",
+    "claimed_label": "real",
+    "folder_name": "air filter og",
+    "filename": "67.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug og/91.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "real",
+    "folder_name": "spark plug og",
+    "filename": "91.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet fake/10.jpg",
+    "part_type": "helmet",
+    "claimed_label": "fake",
+    "folder_name": "helmet fake",
+    "filename": "10.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug og/43.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "real",
+    "folder_name": "spark plug og",
+    "filename": "43.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet og/60.jpg",
+    "part_type": "helmet",
+    "claimed_label": "real",
+    "folder_name": "helmet og",
+    "filename": "60.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet fake/38.jpg",
+    "part_type": "helmet",
+    "claimed_label": "fake",
+    "folder_name": "helmet fake",
+    "filename": "38.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug og/28.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "real",
+    "folder_name": "spark plug og",
+    "filename": "28.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet og/222.jpg",
+    "part_type": "helmet",
+    "claimed_label": "real",
+    "folder_name": "helmet og",
+    "filename": "222.jpg"
+  },
+  {
+    "image_path": "dataset1/air filter og/41.jpg",
+    "part_type": "air_filter",
+    "claimed_label": "real",
+    "folder_name": "air filter og",
+    "filename": "41.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug fake/29.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "fake",
+    "folder_name": "spark plug fake",
+    "filename": "29.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug fake/52.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "fake",
+    "folder_name": "spark plug fake",
+    "filename": "52.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug og/31.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "real",
+    "folder_name": "spark plug og",
+    "filename": "31.jpg"
+  },
+  {
+    "image_path": "dataset1/air filter og/65.jpg",
+    "part_type": "air_filter",
+    "claimed_label": "real",
+    "folder_name": "air filter og",
+    "filename": "65.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet fake/50.jpg",
+    "part_type": "helmet",
+    "claimed_label": "fake",
+    "folder_name": "helmet fake",
+    "filename": "50.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet fake/23.jpg",
+    "part_type": "helmet",
+    "claimed_label": "fake",
+    "folder_name": "helmet fake",
+    "filename": "23.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug og/30.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "real",
+    "folder_name": "spark plug og",
+    "filename": "30.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet fake/41.jpg",
+    "part_type": "helmet",
+    "claimed_label": "fake",
+    "folder_name": "helmet fake",
+    "filename": "41.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug og/77.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "real",
+    "folder_name": "spark plug og",
+    "filename": "77.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug fake/15.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "fake",
+    "folder_name": "spark plug fake",
+    "filename": "15.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet og/68.jpg",
+    "part_type": "helmet",
+    "claimed_label": "real",
+    "folder_name": "helmet og",
+    "filename": "68.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug fake/16.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "fake",
+    "folder_name": "spark plug fake",
+    "filename": "16.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug og/16.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "real",
+    "folder_name": "spark plug og",
+    "filename": "16.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet fake/53.jpg",
+    "part_type": "helmet",
+    "claimed_label": "fake",
+    "folder_name": "helmet fake",
+    "filename": "53.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet fake/26.jpg",
+    "part_type": "helmet",
+    "claimed_label": "fake",
+    "folder_name": "helmet fake",
+    "filename": "26.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet og/61ftOfeKU8L._SX522_.jpg",
+    "part_type": "helmet",
+    "claimed_label": "real",
+    "folder_name": "helmet og",
+    "filename": "61ftOfeKU8L._SX522_.jpg"
+  },
+  {
+    "image_path": "dataset1/air filter fake/33.jpg",
+    "part_type": "air_filter",
+    "claimed_label": "fake",
+    "folder_name": "air filter fake",
+    "filename": "33.jpg"
+  },
+  {
+    "image_path": "dataset1/air filter og/49.jpg",
+    "part_type": "air_filter",
+    "claimed_label": "real",
+    "folder_name": "air filter og",
+    "filename": "49.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet fake/4.jpg",
+    "part_type": "helmet",
+    "claimed_label": "fake",
+    "folder_name": "helmet fake",
+    "filename": "4.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug og/101.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "real",
+    "folder_name": "spark plug og",
+    "filename": "101.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet og/48.jpg",
+    "part_type": "helmet",
+    "claimed_label": "real",
+    "folder_name": "helmet og",
+    "filename": "48.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug og/61AeTd82IEL._SL1500_.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "real",
+    "folder_name": "spark plug og",
+    "filename": "61AeTd82IEL._SL1500_.jpg"
+  },
+  {
+    "image_path": "dataset1/air filter fake/37.jpg",
+    "part_type": "air_filter",
+    "claimed_label": "fake",
+    "folder_name": "air filter fake",
+    "filename": "37.jpg"
+  },
+  {
+    "image_path": "dataset1/air filter og/40.jpg",
+    "part_type": "air_filter",
+    "claimed_label": "real",
+    "folder_name": "air filter og",
+    "filename": "40.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet fake/13.jpg",
+    "part_type": "helmet",
+    "claimed_label": "fake",
+    "folder_name": "helmet fake",
+    "filename": "13.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet fake/5.jpg",
+    "part_type": "helmet",
+    "claimed_label": "fake",
+    "folder_name": "helmet fake",
+    "filename": "5.jpg"
+  },
+  {
+    "image_path": "dataset1/air filter og/73.jpg",
+    "part_type": "air_filter",
+    "claimed_label": "real",
+    "folder_name": "air filter og",
+    "filename": "73.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug og/32.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "real",
+    "folder_name": "spark plug og",
+    "filename": "32.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug og/34.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "real",
+    "folder_name": "spark plug og",
+    "filename": "34.jpg"
+  },
+  {
+    "image_path": "dataset1/air filter og/58.jpg",
+    "part_type": "air_filter",
+    "claimed_label": "real",
+    "folder_name": "air filter og",
+    "filename": "58.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet fake/18.jpg",
+    "part_type": "helmet",
+    "claimed_label": "fake",
+    "folder_name": "helmet fake",
+    "filename": "18.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug og/100.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "real",
+    "folder_name": "spark plug og",
+    "filename": "100.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug og/27.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "real",
+    "folder_name": "spark plug og",
+    "filename": "27.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet og/9.jpg",
+    "part_type": "helmet",
+    "claimed_label": "real",
+    "folder_name": "helmet og",
+    "filename": "9.jpg"
+  },
+  {
+    "image_path": "dataset1/air filter og/21.jpg",
+    "part_type": "air_filter",
+    "claimed_label": "real",
+    "folder_name": "air filter og",
+    "filename": "21.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug og/56.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "real",
+    "folder_name": "spark plug og",
+    "filename": "56.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet og/36.jpg",
+    "part_type": "helmet",
+    "claimed_label": "real",
+    "folder_name": "helmet og",
+    "filename": "36.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet fake/59.jpg",
+    "part_type": "helmet",
+    "claimed_label": "fake",
+    "folder_name": "helmet fake",
+    "filename": "59.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet og/75.jpg",
+    "part_type": "helmet",
+    "claimed_label": "real",
+    "folder_name": "helmet og",
+    "filename": "75.jpg"
+  },
+  {
+    "image_path": "dataset1/air filter og/22.jpg",
+    "part_type": "air_filter",
+    "claimed_label": "real",
+    "folder_name": "air filter og",
+    "filename": "22.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet og/61.jpg",
+    "part_type": "helmet",
+    "claimed_label": "real",
+    "folder_name": "helmet og",
+    "filename": "61.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug fake/44.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "fake",
+    "folder_name": "spark plug fake",
+    "filename": "44.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet og/77.jpg",
+    "part_type": "helmet",
+    "claimed_label": "real",
+    "folder_name": "helmet og",
+    "filename": "77.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug og/38.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "real",
+    "folder_name": "spark plug og",
+    "filename": "38.jpg"
+  },
+  {
+    "image_path": "dataset1/air filter og/54.jpg",
+    "part_type": "air_filter",
+    "claimed_label": "real",
+    "folder_name": "air filter og",
+    "filename": "54.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug fake/57.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "fake",
+    "folder_name": "spark plug fake",
+    "filename": "57.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet og/4.jpg",
+    "part_type": "helmet",
+    "claimed_label": "real",
+    "folder_name": "helmet og",
+    "filename": "4.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet fake/27.jpg",
+    "part_type": "helmet",
+    "claimed_label": "fake",
+    "folder_name": "helmet fake",
+    "filename": "27.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet fake/2.jpg",
+    "part_type": "helmet",
+    "claimed_label": "fake",
+    "folder_name": "helmet fake",
+    "filename": "2.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet og/55.jpg",
+    "part_type": "helmet",
+    "claimed_label": "real",
+    "folder_name": "helmet og",
+    "filename": "55.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug og/24.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "real",
+    "folder_name": "spark plug og",
+    "filename": "24.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug fake/33.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "fake",
+    "folder_name": "spark plug fake",
+    "filename": "33.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet og/72.jpg",
+    "part_type": "helmet",
+    "claimed_label": "real",
+    "folder_name": "helmet og",
+    "filename": "72.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug og/62.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "real",
+    "folder_name": "spark plug og",
+    "filename": "62.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug fake/9.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "fake",
+    "folder_name": "spark plug fake",
+    "filename": "9.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet fake/7.jpg",
+    "part_type": "helmet",
+    "claimed_label": "fake",
+    "folder_name": "helmet fake",
+    "filename": "7.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug og/78.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "real",
+    "folder_name": "spark plug og",
+    "filename": "78.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet fake/51.jpg",
+    "part_type": "helmet",
+    "claimed_label": "fake",
+    "folder_name": "helmet fake",
+    "filename": "51.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug fake/6.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "fake",
+    "folder_name": "spark plug fake",
+    "filename": "6.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug fake/19.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "fake",
+    "folder_name": "spark plug fake",
+    "filename": "19.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet fake/79.jpg",
+    "part_type": "helmet",
+    "claimed_label": "fake",
+    "folder_name": "helmet fake",
+    "filename": "79.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet fake/64.jpg",
+    "part_type": "helmet",
+    "claimed_label": "fake",
+    "folder_name": "helmet fake",
+    "filename": "64.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug og/86.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "real",
+    "folder_name": "spark plug og",
+    "filename": "86.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug og/13.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "real",
+    "folder_name": "spark plug og",
+    "filename": "13.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug fake/38.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "fake",
+    "folder_name": "spark plug fake",
+    "filename": "38.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug og/11.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "real",
+    "folder_name": "spark plug og",
+    "filename": "11.jpg"
+  },
+  {
+    "image_path": "dataset1/air filter og/38.jpg",
+    "part_type": "air_filter",
+    "claimed_label": "real",
+    "folder_name": "air filter og",
+    "filename": "38.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet og/15.jpg",
+    "part_type": "helmet",
+    "claimed_label": "real",
+    "folder_name": "helmet og",
+    "filename": "15.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet og/18.jpg",
+    "part_type": "helmet",
+    "claimed_label": "real",
+    "folder_name": "helmet og",
+    "filename": "18.jpg"
+  },
+  {
+    "image_path": "dataset1/air filter og/26.jpg",
+    "part_type": "air_filter",
+    "claimed_label": "real",
+    "folder_name": "air filter og",
+    "filename": "26.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet fake/30.jpg",
+    "part_type": "helmet",
+    "claimed_label": "fake",
+    "folder_name": "helmet fake",
+    "filename": "30.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet fake/19.jpg",
+    "part_type": "helmet",
+    "claimed_label": "fake",
+    "folder_name": "helmet fake",
+    "filename": "19.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet fake/62.jpg",
+    "part_type": "helmet",
+    "claimed_label": "fake",
+    "folder_name": "helmet fake",
+    "filename": "62.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug og/15.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "real",
+    "folder_name": "spark plug og",
+    "filename": "15.jpg"
+  },
+  {
+    "image_path": "dataset1/air filter og/57.jpg",
+    "part_type": "air_filter",
+    "claimed_label": "real",
+    "folder_name": "air filter og",
+    "filename": "57.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug og/90.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "real",
+    "folder_name": "spark plug og",
+    "filename": "90.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug og/76.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "real",
+    "folder_name": "spark plug og",
+    "filename": "76.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug fake/28.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "fake",
+    "folder_name": "spark plug fake",
+    "filename": "28.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug og/66.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "real",
+    "folder_name": "spark plug og",
+    "filename": "66.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet og/23.jpg",
+    "part_type": "helmet",
+    "claimed_label": "real",
+    "folder_name": "helmet og",
+    "filename": "23.jpg"
+  },
+  {
+    "image_path": "dataset1/air filter og/75.jpg",
+    "part_type": "air_filter",
+    "claimed_label": "real",
+    "folder_name": "air filter og",
+    "filename": "75.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet og/26.jpg",
+    "part_type": "helmet",
+    "claimed_label": "real",
+    "folder_name": "helmet og",
+    "filename": "26.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug og/93.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "real",
+    "folder_name": "spark plug og",
+    "filename": "93.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet og/51.jpg",
+    "part_type": "helmet",
+    "claimed_label": "real",
+    "folder_name": "helmet og",
+    "filename": "51.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet og/47.jpg",
+    "part_type": "helmet",
+    "claimed_label": "real",
+    "folder_name": "helmet og",
+    "filename": "47.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug og/83.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "real",
+    "folder_name": "spark plug og",
+    "filename": "83.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug fake/22.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "fake",
+    "folder_name": "spark plug fake",
+    "filename": "22.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug fake/61.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "fake",
+    "folder_name": "spark plug fake",
+    "filename": "61.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug og/14.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "real",
+    "folder_name": "spark plug og",
+    "filename": "14.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet fake/15.jpg",
+    "part_type": "helmet",
+    "claimed_label": "fake",
+    "folder_name": "helmet fake",
+    "filename": "15.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug fake/45.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "fake",
+    "folder_name": "spark plug fake",
+    "filename": "45.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet og/66.jpg",
+    "part_type": "helmet",
+    "claimed_label": "real",
+    "folder_name": "helmet og",
+    "filename": "66.jpg"
+  },
+  {
+    "image_path": "dataset1/air filter og/12.jpg",
+    "part_type": "air_filter",
+    "claimed_label": "real",
+    "folder_name": "air filter og",
+    "filename": "12.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet fake/46.jpg",
+    "part_type": "helmet",
+    "claimed_label": "fake",
+    "folder_name": "helmet fake",
+    "filename": "46.jpg"
+  },
+  {
+    "image_path": "dataset1/air filter fake/34.jpg",
+    "part_type": "air_filter",
+    "claimed_label": "fake",
+    "folder_name": "air filter fake",
+    "filename": "34.jpg"
+  },
+  {
+    "image_path": "dataset1/air filter og/18.jpg",
+    "part_type": "air_filter",
+    "claimed_label": "real",
+    "folder_name": "air filter og",
+    "filename": "18.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug og/10.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "real",
+    "folder_name": "spark plug og",
+    "filename": "10.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug og/37.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "real",
+    "folder_name": "spark plug og",
+    "filename": "37.jpg"
+  },
+  {
+    "image_path": "dataset1/air filter fake/39.png",
+    "part_type": "air_filter",
+    "claimed_label": "fake",
+    "folder_name": "air filter fake",
+    "filename": "39.png"
+  },
+  {
+    "image_path": "dataset1/spark plug og/35.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "real",
+    "folder_name": "spark plug og",
+    "filename": "35.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet og/28.jpg",
+    "part_type": "helmet",
+    "claimed_label": "real",
+    "folder_name": "helmet og",
+    "filename": "28.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet og/74.jpg",
+    "part_type": "helmet",
+    "claimed_label": "real",
+    "folder_name": "helmet og",
+    "filename": "74.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet fake/78.jpg",
+    "part_type": "helmet",
+    "claimed_label": "fake",
+    "folder_name": "helmet fake",
+    "filename": "78.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet fake/44.jpg",
+    "part_type": "helmet",
+    "claimed_label": "fake",
+    "folder_name": "helmet fake",
+    "filename": "44.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet og/24.jpg",
+    "part_type": "helmet",
+    "claimed_label": "real",
+    "folder_name": "helmet og",
+    "filename": "24.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet fake/45.jpg",
+    "part_type": "helmet",
+    "claimed_label": "fake",
+    "folder_name": "helmet fake",
+    "filename": "45.jpg"
+  },
+  {
+    "image_path": "dataset1/air filter og/71.jpg",
+    "part_type": "air_filter",
+    "claimed_label": "real",
+    "folder_name": "air filter og",
+    "filename": "71.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug fake/48.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "fake",
+    "folder_name": "spark plug fake",
+    "filename": "48.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet fake/48.jpg",
+    "part_type": "helmet",
+    "claimed_label": "fake",
+    "folder_name": "helmet fake",
+    "filename": "48.jpg"
+  },
+  {
+    "image_path": "dataset1/air filter og/50.jpg",
+    "part_type": "air_filter",
+    "claimed_label": "real",
+    "folder_name": "air filter og",
+    "filename": "50.jpg"
+  },
+  {
+    "image_path": "dataset1/air filter og/51.jpg",
+    "part_type": "air_filter",
+    "claimed_label": "real",
+    "folder_name": "air filter og",
+    "filename": "51.jpg"
+  },
+  {
+    "image_path": "dataset1/air filter fake/19.jpg",
+    "part_type": "air_filter",
+    "claimed_label": "fake",
+    "folder_name": "air filter fake",
+    "filename": "19.jpg"
+  },
+  {
+    "image_path": "dataset1/air filter og/83.jpg",
+    "part_type": "air_filter",
+    "claimed_label": "real",
+    "folder_name": "air filter og",
+    "filename": "83.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet fake/8.jpg",
+    "part_type": "helmet",
+    "claimed_label": "fake",
+    "folder_name": "helmet fake",
+    "filename": "8.jpg"
+  },
+  {
+    "image_path": "dataset1/air filter og/81.jpg",
+    "part_type": "air_filter",
+    "claimed_label": "real",
+    "folder_name": "air filter og",
+    "filename": "81.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug og/5.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "real",
+    "folder_name": "spark plug og",
+    "filename": "5.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug fake/27.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "fake",
+    "folder_name": "spark plug fake",
+    "filename": "27.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet fake/17.jpg",
+    "part_type": "helmet",
+    "claimed_label": "fake",
+    "folder_name": "helmet fake",
+    "filename": "17.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug og/54.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "real",
+    "folder_name": "spark plug og",
+    "filename": "54.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet fake/47.jpg",
+    "part_type": "helmet",
+    "claimed_label": "fake",
+    "folder_name": "helmet fake",
+    "filename": "47.jpg"
+  },
+  {
+    "image_path": "dataset1/air filter og/36.jpg",
+    "part_type": "air_filter",
+    "claimed_label": "real",
+    "folder_name": "air filter og",
+    "filename": "36.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet fake/29.jpg",
+    "part_type": "helmet",
+    "claimed_label": "fake",
+    "folder_name": "helmet fake",
+    "filename": "29.jpg"
+  },
+  {
+    "image_path": "dataset1/air filter fake/35.jpg",
+    "part_type": "air_filter",
+    "claimed_label": "fake",
+    "folder_name": "air filter fake",
+    "filename": "35.jpg"
+  },
+  {
+    "image_path": "dataset1/air filter og/8.jpg",
+    "part_type": "air_filter",
+    "claimed_label": "real",
+    "folder_name": "air filter og",
+    "filename": "8.jpg"
+  },
+  {
+    "image_path": "dataset1/air filter fake/18.jpg",
+    "part_type": "air_filter",
+    "claimed_label": "fake",
+    "folder_name": "air filter fake",
+    "filename": "18.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet fake/35.jpg",
+    "part_type": "helmet",
+    "claimed_label": "fake",
+    "folder_name": "helmet fake",
+    "filename": "35.jpg"
+  },
+  {
+    "image_path": "dataset1/air filter og/39.jpg",
+    "part_type": "air_filter",
+    "claimed_label": "real",
+    "folder_name": "air filter og",
+    "filename": "39.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet fake/68.jpg",
+    "part_type": "helmet",
+    "claimed_label": "fake",
+    "folder_name": "helmet fake",
+    "filename": "68.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug fake/34.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "fake",
+    "folder_name": "spark plug fake",
+    "filename": "34.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet fake/65.jpg",
+    "part_type": "helmet",
+    "claimed_label": "fake",
+    "folder_name": "helmet fake",
+    "filename": "65.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug og/40.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "real",
+    "folder_name": "spark plug og",
+    "filename": "40.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet fake/55.jpg",
+    "part_type": "helmet",
+    "claimed_label": "fake",
+    "folder_name": "helmet fake",
+    "filename": "55.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug fake/32.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "fake",
+    "folder_name": "spark plug fake",
+    "filename": "32.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet og/32.jpg",
+    "part_type": "helmet",
+    "claimed_label": "real",
+    "folder_name": "helmet og",
+    "filename": "32.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug og/98.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "real",
+    "folder_name": "spark plug og",
+    "filename": "98.jpg"
+  },
+  {
+    "image_path": "dataset1/air filter og/42.jpg",
+    "part_type": "air_filter",
+    "claimed_label": "real",
+    "folder_name": "air filter og",
+    "filename": "42.jpg"
+  },
+  {
+    "image_path": "dataset1/air filter og/63.jpg",
+    "part_type": "air_filter",
+    "claimed_label": "real",
+    "folder_name": "air filter og",
+    "filename": "63.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet fake/82.jpg",
+    "part_type": "helmet",
+    "claimed_label": "fake",
+    "folder_name": "helmet fake",
+    "filename": "82.jpg"
+  },
+  {
+    "image_path": "dataset1/air filter og/15.jpg",
+    "part_type": "air_filter",
+    "claimed_label": "real",
+    "folder_name": "air filter og",
+    "filename": "15.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug og/42.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "real",
+    "folder_name": "spark plug og",
+    "filename": "42.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet og/12.jpg",
+    "part_type": "helmet",
+    "claimed_label": "real",
+    "folder_name": "helmet og",
+    "filename": "12.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug og/29.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "real",
+    "folder_name": "spark plug og",
+    "filename": "29.jpg"
+  },
+  {
+    "image_path": "dataset1/air filter og/44.jpg",
+    "part_type": "air_filter",
+    "claimed_label": "real",
+    "folder_name": "air filter og",
+    "filename": "44.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug og/99.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "real",
+    "folder_name": "spark plug og",
+    "filename": "99.jpg"
+  },
+  {
+    "image_path": "dataset1/air filter og/53.jpg",
+    "part_type": "air_filter",
+    "claimed_label": "real",
+    "folder_name": "air filter og",
+    "filename": "53.jpg"
+  },
+  {
+    "image_path": "dataset1/air filter og/64.jpg",
+    "part_type": "air_filter",
+    "claimed_label": "real",
+    "folder_name": "air filter og",
+    "filename": "64.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug fake/55.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "fake",
+    "folder_name": "spark plug fake",
+    "filename": "55.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug og/41.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "real",
+    "folder_name": "spark plug og",
+    "filename": "41.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet fake/39.jpg",
+    "part_type": "helmet",
+    "claimed_label": "fake",
+    "folder_name": "helmet fake",
+    "filename": "39.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug fake/68.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "fake",
+    "folder_name": "spark plug fake",
+    "filename": "68.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug og/57.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "real",
+    "folder_name": "spark plug og",
+    "filename": "57.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug og/8.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "real",
+    "folder_name": "spark plug og",
+    "filename": "8.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug og/79.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "real",
+    "folder_name": "spark plug og",
+    "filename": "79.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet og/29.jpg",
+    "part_type": "helmet",
+    "claimed_label": "real",
+    "folder_name": "helmet og",
+    "filename": "29.jpg"
+  },
+  {
+    "image_path": "dataset1/air filter fake/17.jpg",
+    "part_type": "air_filter",
+    "claimed_label": "fake",
+    "folder_name": "air filter fake",
+    "filename": "17.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet og/0.jpg",
+    "part_type": "helmet",
+    "claimed_label": "real",
+    "folder_name": "helmet og",
+    "filename": "0.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet og/10.jpg",
+    "part_type": "helmet",
+    "claimed_label": "real",
+    "folder_name": "helmet og",
+    "filename": "10.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug og/6.webp",
+    "part_type": "spark_plug",
+    "claimed_label": "real",
+    "folder_name": "spark plug og",
+    "filename": "6.webp"
+  },
+  {
+    "image_path": "dataset1/helmet og/58.jpg",
+    "part_type": "helmet",
+    "claimed_label": "real",
+    "folder_name": "helmet og",
+    "filename": "58.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet og/8.jpg",
+    "part_type": "helmet",
+    "claimed_label": "real",
+    "folder_name": "helmet og",
+    "filename": "8.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug fake/66.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "fake",
+    "folder_name": "spark plug fake",
+    "filename": "66.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug og/64.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "real",
+    "folder_name": "spark plug og",
+    "filename": "64.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet fake/58.jpg",
+    "part_type": "helmet",
+    "claimed_label": "fake",
+    "folder_name": "helmet fake",
+    "filename": "58.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet og/43.jpg",
+    "part_type": "helmet",
+    "claimed_label": "real",
+    "folder_name": "helmet og",
+    "filename": "43.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug fake/17.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "fake",
+    "folder_name": "spark plug fake",
+    "filename": "17.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug fake/25.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "fake",
+    "folder_name": "spark plug fake",
+    "filename": "25.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet fake/61.jpg",
+    "part_type": "helmet",
+    "claimed_label": "fake",
+    "folder_name": "helmet fake",
+    "filename": "61.jpg"
+  },
+  {
+    "image_path": "dataset1/air filter og/69.jpg",
+    "part_type": "air_filter",
+    "claimed_label": "real",
+    "folder_name": "air filter og",
+    "filename": "69.jpg"
+  },
+  {
+    "image_path": "dataset1/air filter fake/13.jpg",
+    "part_type": "air_filter",
+    "claimed_label": "fake",
+    "folder_name": "air filter fake",
+    "filename": "13.jpg"
+  },
+  {
+    "image_path": "dataset1/air filter og/59.jpg",
+    "part_type": "air_filter",
+    "claimed_label": "real",
+    "folder_name": "air filter og",
+    "filename": "59.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug fake/26.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "fake",
+    "folder_name": "spark plug fake",
+    "filename": "26.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet og/45.jpg",
+    "part_type": "helmet",
+    "claimed_label": "real",
+    "folder_name": "helmet og",
+    "filename": "45.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet og/63.jpg",
+    "part_type": "helmet",
+    "claimed_label": "real",
+    "folder_name": "helmet og",
+    "filename": "63.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet fake/63.jpg",
+    "part_type": "helmet",
+    "claimed_label": "fake",
+    "folder_name": "helmet fake",
+    "filename": "63.jpg"
+  },
+  {
+    "image_path": "dataset1/air filter og/78.jpg",
+    "part_type": "air_filter",
+    "claimed_label": "real",
+    "folder_name": "air filter og",
+    "filename": "78.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug og/74.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "real",
+    "folder_name": "spark plug og",
+    "filename": "74.jpg"
+  },
+  {
+    "image_path": "dataset1/air filter fake/38.png",
+    "part_type": "air_filter",
+    "claimed_label": "fake",
+    "folder_name": "air filter fake",
+    "filename": "38.png"
+  },
+  {
+    "image_path": "dataset1/helmet og/54.jpg",
+    "part_type": "helmet",
+    "claimed_label": "real",
+    "folder_name": "helmet og",
+    "filename": "54.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug og/25.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "real",
+    "folder_name": "spark plug og",
+    "filename": "25.jpg"
+  },
+  {
+    "image_path": "dataset1/air filter fake/20.jpg",
+    "part_type": "air_filter",
+    "claimed_label": "fake",
+    "folder_name": "air filter fake",
+    "filename": "20.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet og/3.jpg",
+    "part_type": "helmet",
+    "claimed_label": "real",
+    "folder_name": "helmet og",
+    "filename": "3.jpg"
+  },
+  {
+    "image_path": "dataset1/air filter og/30.jpg",
+    "part_type": "air_filter",
+    "claimed_label": "real",
+    "folder_name": "air filter og",
+    "filename": "30.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug fake/37.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "fake",
+    "folder_name": "spark plug fake",
+    "filename": "37.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug og/51.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "real",
+    "folder_name": "spark plug og",
+    "filename": "51.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug og/65.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "real",
+    "folder_name": "spark plug og",
+    "filename": "65.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet fake/67.jpg",
+    "part_type": "helmet",
+    "claimed_label": "fake",
+    "folder_name": "helmet fake",
+    "filename": "67.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet og/7.jpg",
+    "part_type": "helmet",
+    "claimed_label": "real",
+    "folder_name": "helmet og",
+    "filename": "7.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug og/33.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "real",
+    "folder_name": "spark plug og",
+    "filename": "33.jpg"
+  },
+  {
+    "image_path": "dataset1/air filter fake/23.jpg",
+    "part_type": "air_filter",
+    "claimed_label": "fake",
+    "folder_name": "air filter fake",
+    "filename": "23.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet fake/11.jpg",
+    "part_type": "helmet",
+    "claimed_label": "fake",
+    "folder_name": "helmet fake",
+    "filename": "11.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug og/4.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "real",
+    "folder_name": "spark plug og",
+    "filename": "4.jpg"
+  },
+  {
+    "image_path": "dataset1/air filter og/45.jpg",
+    "part_type": "air_filter",
+    "claimed_label": "real",
+    "folder_name": "air filter og",
+    "filename": "45.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet fake/21.jpg",
+    "part_type": "helmet",
+    "claimed_label": "fake",
+    "folder_name": "helmet fake",
+    "filename": "21.jpg"
+  },
+  {
+    "image_path": "dataset1/air filter og/14.jpg",
+    "part_type": "air_filter",
+    "claimed_label": "real",
+    "folder_name": "air filter og",
+    "filename": "14.jpg"
+  },
+  {
+    "image_path": "dataset1/air filter og/37.jpg",
+    "part_type": "air_filter",
+    "claimed_label": "real",
+    "folder_name": "air filter og",
+    "filename": "37.jpg"
+  },
+  {
+    "image_path": "dataset1/air filter og/1.jpg",
+    "part_type": "air_filter",
+    "claimed_label": "real",
+    "folder_name": "air filter og",
+    "filename": "1.jpg"
+  },
+  {
+    "image_path": "dataset1/air filter og/3.jpg",
+    "part_type": "air_filter",
+    "claimed_label": "real",
+    "folder_name": "air filter og",
+    "filename": "3.jpg"
+  },
+  {
+    "image_path": "dataset1/air filter fake/27.jpg",
+    "part_type": "air_filter",
+    "claimed_label": "fake",
+    "folder_name": "air filter fake",
+    "filename": "27.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet fake/73.jpg",
+    "part_type": "helmet",
+    "claimed_label": "fake",
+    "folder_name": "helmet fake",
+    "filename": "73.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet og/40.jpg",
+    "part_type": "helmet",
+    "claimed_label": "real",
+    "folder_name": "helmet og",
+    "filename": "40.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet fake/9.jpg",
+    "part_type": "helmet",
+    "claimed_label": "fake",
+    "folder_name": "helmet fake",
+    "filename": "9.jpg"
+  },
+  {
+    "image_path": "dataset1/air filter fake/12.jpg",
+    "part_type": "air_filter",
+    "claimed_label": "fake",
+    "folder_name": "air filter fake",
+    "filename": "12.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug og/87.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "real",
+    "folder_name": "spark plug og",
+    "filename": "87.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet fake/60.jpg",
+    "part_type": "helmet",
+    "claimed_label": "fake",
+    "folder_name": "helmet fake",
+    "filename": "60.jpg"
+  },
+  {
+    "image_path": "dataset1/air filter fake/11.jpg",
+    "part_type": "air_filter",
+    "claimed_label": "fake",
+    "folder_name": "air filter fake",
+    "filename": "11.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet og/80.jpg",
+    "part_type": "helmet",
+    "claimed_label": "real",
+    "folder_name": "helmet og",
+    "filename": "80.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug og/23.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "real",
+    "folder_name": "spark plug og",
+    "filename": "23.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet fake/80.jpg",
+    "part_type": "helmet",
+    "claimed_label": "fake",
+    "folder_name": "helmet fake",
+    "filename": "80.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug fake/8.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "fake",
+    "folder_name": "spark plug fake",
+    "filename": "8.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug fake/7.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "fake",
+    "folder_name": "spark plug fake",
+    "filename": "7.jpg"
+  },
+  {
+    "image_path": "dataset1/air filter og/20.jpg",
+    "part_type": "air_filter",
+    "claimed_label": "real",
+    "folder_name": "air filter og",
+    "filename": "20.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet og/1.jpg",
+    "part_type": "helmet",
+    "claimed_label": "real",
+    "folder_name": "helmet og",
+    "filename": "1.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug fake/49.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "fake",
+    "folder_name": "spark plug fake",
+    "filename": "49.jpg"
+  },
+  {
+    "image_path": "dataset1/air filter og/16.jpg",
+    "part_type": "air_filter",
+    "claimed_label": "real",
+    "folder_name": "air filter og",
+    "filename": "16.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug og/59.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "real",
+    "folder_name": "spark plug og",
+    "filename": "59.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug fake/36.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "fake",
+    "folder_name": "spark plug fake",
+    "filename": "36.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug og/58.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "real",
+    "folder_name": "spark plug og",
+    "filename": "58.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug og/89.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "real",
+    "folder_name": "spark plug og",
+    "filename": "89.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet og/71.jpg",
+    "part_type": "helmet",
+    "claimed_label": "real",
+    "folder_name": "helmet og",
+    "filename": "71.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet og/5.jpg",
+    "part_type": "helmet",
+    "claimed_label": "real",
+    "folder_name": "helmet og",
+    "filename": "5.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug fake/18.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "fake",
+    "folder_name": "spark plug fake",
+    "filename": "18.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet og/11.jpg",
+    "part_type": "helmet",
+    "claimed_label": "real",
+    "folder_name": "helmet og",
+    "filename": "11.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug og/96.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "real",
+    "folder_name": "spark plug og",
+    "filename": "96.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug fake/1.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "fake",
+    "folder_name": "spark plug fake",
+    "filename": "1.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet og/31.jpg",
+    "part_type": "helmet",
+    "claimed_label": "real",
+    "folder_name": "helmet og",
+    "filename": "31.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug og/21.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "real",
+    "folder_name": "spark plug og",
+    "filename": "21.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet fake/3.jpg",
+    "part_type": "helmet",
+    "claimed_label": "fake",
+    "folder_name": "helmet fake",
+    "filename": "3.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet og/62.jpg",
+    "part_type": "helmet",
+    "claimed_label": "real",
+    "folder_name": "helmet og",
+    "filename": "62.jpg"
+  },
+  {
+    "image_path": "dataset1/air filter og/61.jpg",
+    "part_type": "air_filter",
+    "claimed_label": "real",
+    "folder_name": "air filter og",
+    "filename": "61.jpg"
+  },
+  {
+    "image_path": "dataset1/air filter og/28.jpg",
+    "part_type": "air_filter",
+    "claimed_label": "real",
+    "folder_name": "air filter og",
+    "filename": "28.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug og/84.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "real",
+    "folder_name": "spark plug og",
+    "filename": "84.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug fake/60.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "fake",
+    "folder_name": "spark plug fake",
+    "filename": "60.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet og/2.jpg",
+    "part_type": "helmet",
+    "claimed_label": "real",
+    "folder_name": "helmet og",
+    "filename": "2.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug og/3.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "real",
+    "folder_name": "spark plug og",
+    "filename": "3.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet og/17.jpg",
+    "part_type": "helmet",
+    "claimed_label": "real",
+    "folder_name": "helmet og",
+    "filename": "17.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet og/76.jpg",
+    "part_type": "helmet",
+    "claimed_label": "real",
+    "folder_name": "helmet og",
+    "filename": "76.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug fake/10.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "fake",
+    "folder_name": "spark plug fake",
+    "filename": "10.jpg"
+  },
+  {
+    "image_path": "dataset1/air filter og/11.jpg",
+    "part_type": "air_filter",
+    "claimed_label": "real",
+    "folder_name": "air filter og",
+    "filename": "11.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug og/19.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "real",
+    "folder_name": "spark plug og",
+    "filename": "19.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet fake/6.jpg",
+    "part_type": "helmet",
+    "claimed_label": "fake",
+    "folder_name": "helmet fake",
+    "filename": "6.jpg"
+  },
+  {
+    "image_path": "dataset1/air filter og/27.jpg",
+    "part_type": "air_filter",
+    "claimed_label": "real",
+    "folder_name": "air filter og",
+    "filename": "27.jpg"
+  },
+  {
+    "image_path": "dataset1/air filter og/84.jpg",
+    "part_type": "air_filter",
+    "claimed_label": "real",
+    "folder_name": "air filter og",
+    "filename": "84.jpg"
+  },
+  {
+    "image_path": "dataset1/air filter og/47.jpg",
+    "part_type": "air_filter",
+    "claimed_label": "real",
+    "folder_name": "air filter og",
+    "filename": "47.jpg"
+  },
+  {
+    "image_path": "dataset1/air filter fake/4.jpg",
+    "part_type": "air_filter",
+    "claimed_label": "fake",
+    "folder_name": "air filter fake",
+    "filename": "4.jpg"
+  },
+  {
+    "image_path": "dataset1/air filter og/31.jpg",
+    "part_type": "air_filter",
+    "claimed_label": "real",
+    "folder_name": "air filter og",
+    "filename": "31.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug fake/64.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "fake",
+    "folder_name": "spark plug fake",
+    "filename": "64.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug fake/14.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "fake",
+    "folder_name": "spark plug fake",
+    "filename": "14.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet og/42.jpg",
+    "part_type": "helmet",
+    "claimed_label": "real",
+    "folder_name": "helmet og",
+    "filename": "42.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug og/61TF4nwfzzL._SX522_.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "real",
+    "folder_name": "spark plug og",
+    "filename": "61TF4nwfzzL._SX522_.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet og/30.jpg",
+    "part_type": "helmet",
+    "claimed_label": "real",
+    "folder_name": "helmet og",
+    "filename": "30.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet fake/77.jpg",
+    "part_type": "helmet",
+    "claimed_label": "fake",
+    "folder_name": "helmet fake",
+    "filename": "77.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet fake/34.jpg",
+    "part_type": "helmet",
+    "claimed_label": "fake",
+    "folder_name": "helmet fake",
+    "filename": "34.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet fake/36.jpg",
+    "part_type": "helmet",
+    "claimed_label": "fake",
+    "folder_name": "helmet fake",
+    "filename": "36.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug fake/39.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "fake",
+    "folder_name": "spark plug fake",
+    "filename": "39.jpg"
+  },
+  {
+    "image_path": "dataset1/air filter og/48.jpg",
+    "part_type": "air_filter",
+    "claimed_label": "real",
+    "folder_name": "air filter og",
+    "filename": "48.jpg"
+  },
+  {
+    "image_path": "dataset1/air filter og/5.jpg",
+    "part_type": "air_filter",
+    "claimed_label": "real",
+    "folder_name": "air filter og",
+    "filename": "5.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug og/17.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "real",
+    "folder_name": "spark plug og",
+    "filename": "17.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug fake/62.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "fake",
+    "folder_name": "spark plug fake",
+    "filename": "62.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug fake/31.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "fake",
+    "folder_name": "spark plug fake",
+    "filename": "31.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug fake/53.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "fake",
+    "folder_name": "spark plug fake",
+    "filename": "53.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet og/13.jpg",
+    "part_type": "helmet",
+    "claimed_label": "real",
+    "folder_name": "helmet og",
+    "filename": "13.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet og/20.jpg",
+    "part_type": "helmet",
+    "claimed_label": "real",
+    "folder_name": "helmet og",
+    "filename": "20.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug og/102.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "real",
+    "folder_name": "spark plug og",
+    "filename": "102.jpg"
+  },
+  {
+    "image_path": "dataset1/air filter fake/24.jpg",
+    "part_type": "air_filter",
+    "claimed_label": "fake",
+    "folder_name": "air filter fake",
+    "filename": "24.jpg"
+  },
+  {
+    "image_path": "dataset1/air filter og/24.jpg",
+    "part_type": "air_filter",
+    "claimed_label": "real",
+    "folder_name": "air filter og",
+    "filename": "24.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet fake/42.jpg",
+    "part_type": "helmet",
+    "claimed_label": "fake",
+    "folder_name": "helmet fake",
+    "filename": "42.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet og/56.jpg",
+    "part_type": "helmet",
+    "claimed_label": "real",
+    "folder_name": "helmet og",
+    "filename": "56.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet fake/57.jpg",
+    "part_type": "helmet",
+    "claimed_label": "fake",
+    "folder_name": "helmet fake",
+    "filename": "57.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet og/57.jpg",
+    "part_type": "helmet",
+    "claimed_label": "real",
+    "folder_name": "helmet og",
+    "filename": "57.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug og/67.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "real",
+    "folder_name": "spark plug og",
+    "filename": "67.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet og/35.jpg",
+    "part_type": "helmet",
+    "claimed_label": "real",
+    "folder_name": "helmet og",
+    "filename": "35.jpg"
+  },
+  {
+    "image_path": "dataset1/air filter og/62.jpg",
+    "part_type": "air_filter",
+    "claimed_label": "real",
+    "folder_name": "air filter og",
+    "filename": "62.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug og/61.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "real",
+    "folder_name": "spark plug og",
+    "filename": "61.jpg"
+  },
+  {
+    "image_path": "dataset1/air filter og/79.jpg",
+    "part_type": "air_filter",
+    "claimed_label": "real",
+    "folder_name": "air filter og",
+    "filename": "79.jpg"
+  },
+  {
+    "image_path": "dataset1/air filter og/43.jpg",
+    "part_type": "air_filter",
+    "claimed_label": "real",
+    "folder_name": "air filter og",
+    "filename": "43.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug og/12.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "real",
+    "folder_name": "spark plug og",
+    "filename": "12.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet fake/70.jpg",
+    "part_type": "helmet",
+    "claimed_label": "fake",
+    "folder_name": "helmet fake",
+    "filename": "70.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet fake/40.jpg",
+    "part_type": "helmet",
+    "claimed_label": "fake",
+    "folder_name": "helmet fake",
+    "filename": "40.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet og/16.jpg",
+    "part_type": "helmet",
+    "claimed_label": "real",
+    "folder_name": "helmet og",
+    "filename": "16.jpg"
+  },
+  {
+    "image_path": "dataset1/air filter og/6.jpg",
+    "part_type": "air_filter",
+    "claimed_label": "real",
+    "folder_name": "air filter og",
+    "filename": "6.jpg"
+  },
+  {
+    "image_path": "dataset1/air filter fake/2.jpg",
+    "part_type": "air_filter",
+    "claimed_label": "fake",
+    "folder_name": "air filter fake",
+    "filename": "2.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet og/49.jpg",
+    "part_type": "helmet",
+    "claimed_label": "real",
+    "folder_name": "helmet og",
+    "filename": "49.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug og/45.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "real",
+    "folder_name": "spark plug og",
+    "filename": "45.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug fake/4.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "fake",
+    "folder_name": "spark plug fake",
+    "filename": "4.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug og/7.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "real",
+    "folder_name": "spark plug og",
+    "filename": "7.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet fake/43.jpg",
+    "part_type": "helmet",
+    "claimed_label": "fake",
+    "folder_name": "helmet fake",
+    "filename": "43.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug og/92.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "real",
+    "folder_name": "spark plug og",
+    "filename": "92.jpg"
+  },
+  {
+    "image_path": "dataset1/air filter og/7.jpg",
+    "part_type": "air_filter",
+    "claimed_label": "real",
+    "folder_name": "air filter og",
+    "filename": "7.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug og/53.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "real",
+    "folder_name": "spark plug og",
+    "filename": "53.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug fake/35.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "fake",
+    "folder_name": "spark plug fake",
+    "filename": "35.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug og/97.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "real",
+    "folder_name": "spark plug og",
+    "filename": "97.jpg"
+  },
+  {
+    "image_path": "dataset1/air filter og/56.jpg",
+    "part_type": "air_filter",
+    "claimed_label": "real",
+    "folder_name": "air filter og",
+    "filename": "56.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet og/44.jpg",
+    "part_type": "helmet",
+    "claimed_label": "real",
+    "folder_name": "helmet og",
+    "filename": "44.jpg"
+  },
+  {
+    "image_path": "dataset1/air filter og/9.jpg",
+    "part_type": "air_filter",
+    "claimed_label": "real",
+    "folder_name": "air filter og",
+    "filename": "9.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug og/70.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "real",
+    "folder_name": "spark plug og",
+    "filename": "70.jpg"
+  },
+  {
+    "image_path": "dataset1/air filter og/60.jpg",
+    "part_type": "air_filter",
+    "claimed_label": "real",
+    "folder_name": "air filter og",
+    "filename": "60.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet fake/72.jpg",
+    "part_type": "helmet",
+    "claimed_label": "fake",
+    "folder_name": "helmet fake",
+    "filename": "72.jpg"
+  },
+  {
+    "image_path": "dataset1/air filter fake/9.jpg",
+    "part_type": "air_filter",
+    "claimed_label": "fake",
+    "folder_name": "air filter fake",
+    "filename": "9.jpg"
+  },
+  {
+    "image_path": "dataset1/air filter og/80.jpg",
+    "part_type": "air_filter",
+    "claimed_label": "real",
+    "folder_name": "air filter og",
+    "filename": "80.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet og/33.jpg",
+    "part_type": "helmet",
+    "claimed_label": "real",
+    "folder_name": "helmet og",
+    "filename": "33.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug og/26.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "real",
+    "folder_name": "spark plug og",
+    "filename": "26.jpg"
+  },
+  {
+    "image_path": "dataset1/air filter og/10.jpg",
+    "part_type": "air_filter",
+    "claimed_label": "real",
+    "folder_name": "air filter og",
+    "filename": "10.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet og/67.jpg",
+    "part_type": "helmet",
+    "claimed_label": "real",
+    "folder_name": "helmet og",
+    "filename": "67.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug fake/42.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "fake",
+    "folder_name": "spark plug fake",
+    "filename": "42.jpg"
+  },
+  {
+    "image_path": "dataset1/air filter fake/14.jpg",
+    "part_type": "air_filter",
+    "claimed_label": "fake",
+    "folder_name": "air filter fake",
+    "filename": "14.jpg"
+  },
+  {
+    "image_path": "dataset1/air filter fake/31.jpg",
+    "part_type": "air_filter",
+    "claimed_label": "fake",
+    "folder_name": "air filter fake",
+    "filename": "31.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug og/69.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "real",
+    "folder_name": "spark plug og",
+    "filename": "69.jpg"
+  },
+  {
+    "image_path": "dataset1/air filter fake/26.jpg",
+    "part_type": "air_filter",
+    "claimed_label": "fake",
+    "folder_name": "air filter fake",
+    "filename": "26.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug og/44.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "real",
+    "folder_name": "spark plug og",
+    "filename": "44.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet fake/20.jpg",
+    "part_type": "helmet",
+    "claimed_label": "fake",
+    "folder_name": "helmet fake",
+    "filename": "20.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet fake/28.jpg",
+    "part_type": "helmet",
+    "claimed_label": "fake",
+    "folder_name": "helmet fake",
+    "filename": "28.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug og/22.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "real",
+    "folder_name": "spark plug og",
+    "filename": "22.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet fake/25.jpg",
+    "part_type": "helmet",
+    "claimed_label": "fake",
+    "folder_name": "helmet fake",
+    "filename": "25.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet og/81.jpg",
+    "part_type": "helmet",
+    "claimed_label": "real",
+    "folder_name": "helmet og",
+    "filename": "81.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet fake/69.jpg",
+    "part_type": "helmet",
+    "claimed_label": "fake",
+    "folder_name": "helmet fake",
+    "filename": "69.jpg"
+  },
+  {
+    "image_path": "dataset1/air filter og/46.jpg",
+    "part_type": "air_filter",
+    "claimed_label": "real",
+    "folder_name": "air filter og",
+    "filename": "46.jpg"
+  },
+  {
+    "image_path": "dataset1/air filter og/4.jpg",
+    "part_type": "air_filter",
+    "claimed_label": "real",
+    "folder_name": "air filter og",
+    "filename": "4.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug fake/58.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "fake",
+    "folder_name": "spark plug fake",
+    "filename": "58.jpg"
+  },
+  {
+    "image_path": "dataset1/air filter og/66.jpg",
+    "part_type": "air_filter",
+    "claimed_label": "real",
+    "folder_name": "air filter og",
+    "filename": "66.jpg"
+  },
+  {
+    "image_path": "dataset1/air filter og/29.jpg",
+    "part_type": "air_filter",
+    "claimed_label": "real",
+    "folder_name": "air filter og",
+    "filename": "29.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug og/80.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "real",
+    "folder_name": "spark plug og",
+    "filename": "80.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug og/52.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "real",
+    "folder_name": "spark plug og",
+    "filename": "52.jpg"
+  },
+  {
+    "image_path": "dataset1/air filter fake/21.jpg",
+    "part_type": "air_filter",
+    "claimed_label": "fake",
+    "folder_name": "air filter fake",
+    "filename": "21.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug fake/30.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "fake",
+    "folder_name": "spark plug fake",
+    "filename": "30.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug fake/41.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "fake",
+    "folder_name": "spark plug fake",
+    "filename": "41.jpg"
+  },
+  {
+    "image_path": "dataset1/air filter fake/8.jpg",
+    "part_type": "air_filter",
+    "claimed_label": "fake",
+    "folder_name": "air filter fake",
+    "filename": "8.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug og/36.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "real",
+    "folder_name": "spark plug og",
+    "filename": "36.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet og/53.jpg",
+    "part_type": "helmet",
+    "claimed_label": "real",
+    "folder_name": "helmet og",
+    "filename": "53.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet fake/24.jpg",
+    "part_type": "helmet",
+    "claimed_label": "fake",
+    "folder_name": "helmet fake",
+    "filename": "24.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet og/73.jpg",
+    "part_type": "helmet",
+    "claimed_label": "real",
+    "folder_name": "helmet og",
+    "filename": "73.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet og/78.jpg",
+    "part_type": "helmet",
+    "claimed_label": "real",
+    "folder_name": "helmet og",
+    "filename": "78.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug og/82.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "real",
+    "folder_name": "spark plug og",
+    "filename": "82.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet og/41.jpg",
+    "part_type": "helmet",
+    "claimed_label": "real",
+    "folder_name": "helmet og",
+    "filename": "41.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug fake/46.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "fake",
+    "folder_name": "spark plug fake",
+    "filename": "46.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet fake/31.jpg",
+    "part_type": "helmet",
+    "claimed_label": "fake",
+    "folder_name": "helmet fake",
+    "filename": "31.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug fake/69.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "fake",
+    "folder_name": "spark plug fake",
+    "filename": "69.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet og/34.jpg",
+    "part_type": "helmet",
+    "claimed_label": "real",
+    "folder_name": "helmet og",
+    "filename": "34.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet fake/71.jpg",
+    "part_type": "helmet",
+    "claimed_label": "fake",
+    "folder_name": "helmet fake",
+    "filename": "71.jpg"
+  },
+  {
+    "image_path": "dataset1/air filter og/2.jpg",
+    "part_type": "air_filter",
+    "claimed_label": "real",
+    "folder_name": "air filter og",
+    "filename": "2.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug fake/3.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "fake",
+    "folder_name": "spark plug fake",
+    "filename": "3.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug og/68.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "real",
+    "folder_name": "spark plug og",
+    "filename": "68.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet og/65.jpg",
+    "part_type": "helmet",
+    "claimed_label": "real",
+    "folder_name": "helmet og",
+    "filename": "65.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet fake/16.jpg",
+    "part_type": "helmet",
+    "claimed_label": "fake",
+    "folder_name": "helmet fake",
+    "filename": "16.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet fake/22.jpg",
+    "part_type": "helmet",
+    "claimed_label": "fake",
+    "folder_name": "helmet fake",
+    "filename": "22.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug fake/56.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "fake",
+    "folder_name": "spark plug fake",
+    "filename": "56.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet fake/32.jpg",
+    "part_type": "helmet",
+    "claimed_label": "fake",
+    "folder_name": "helmet fake",
+    "filename": "32.jpg"
+  },
+  {
+    "image_path": "dataset1/air filter og/68.jpg",
+    "part_type": "air_filter",
+    "claimed_label": "real",
+    "folder_name": "air filter og",
+    "filename": "68.jpg"
+  },
+  {
+    "image_path": "dataset1/air filter og/77.jpg",
+    "part_type": "air_filter",
+    "claimed_label": "real",
+    "folder_name": "air filter og",
+    "filename": "77.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet fake/12.jpg",
+    "part_type": "helmet",
+    "claimed_label": "fake",
+    "folder_name": "helmet fake",
+    "filename": "12.jpg"
+  },
+  {
+    "image_path": "dataset1/air filter og/35.jpg",
+    "part_type": "air_filter",
+    "claimed_label": "real",
+    "folder_name": "air filter og",
+    "filename": "35.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug og/47.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "real",
+    "folder_name": "spark plug og",
+    "filename": "47.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug og/18.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "real",
+    "folder_name": "spark plug og",
+    "filename": "18.jpg"
+  },
+  {
+    "image_path": "dataset1/air filter og/52.jpg",
+    "part_type": "air_filter",
+    "claimed_label": "real",
+    "folder_name": "air filter og",
+    "filename": "52.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet fake/14.jpg",
+    "part_type": "helmet",
+    "claimed_label": "fake",
+    "folder_name": "helmet fake",
+    "filename": "14.jpg"
+  },
+  {
+    "image_path": "dataset1/air filter og/70.jpg",
+    "part_type": "air_filter",
+    "claimed_label": "real",
+    "folder_name": "air filter og",
+    "filename": "70.jpg"
+  },
+  {
+    "image_path": "dataset1/air filter fake/5.jpg",
+    "part_type": "air_filter",
+    "claimed_label": "fake",
+    "folder_name": "air filter fake",
+    "filename": "5.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug og/20.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "real",
+    "folder_name": "spark plug og",
+    "filename": "20.jpg"
+  },
+  {
+    "image_path": "dataset1/air filter og/33.jpg",
+    "part_type": "air_filter",
+    "claimed_label": "real",
+    "folder_name": "air filter og",
+    "filename": "33.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug fake/12.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "fake",
+    "folder_name": "spark plug fake",
+    "filename": "12.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug og/75.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "real",
+    "folder_name": "spark plug og",
+    "filename": "75.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet og/59.jpg",
+    "part_type": "helmet",
+    "claimed_label": "real",
+    "folder_name": "helmet og",
+    "filename": "59.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet fake/66.jpg",
+    "part_type": "helmet",
+    "claimed_label": "fake",
+    "folder_name": "helmet fake",
+    "filename": "66.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug og/49.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "real",
+    "folder_name": "spark plug og",
+    "filename": "49.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet fake/52.jpg",
+    "part_type": "helmet",
+    "claimed_label": "fake",
+    "folder_name": "helmet fake",
+    "filename": "52.jpg"
+  },
+  {
+    "image_path": "dataset1/air filter og/74.jpg",
+    "part_type": "air_filter",
+    "claimed_label": "real",
+    "folder_name": "air filter og",
+    "filename": "74.jpg"
+  },
+  {
+    "image_path": "dataset1/air filter fake/7.jpg",
+    "part_type": "air_filter",
+    "claimed_label": "fake",
+    "folder_name": "air filter fake",
+    "filename": "7.jpg"
+  },
+  {
+    "image_path": "dataset1/air filter fake/15.jpg",
+    "part_type": "air_filter",
+    "claimed_label": "fake",
+    "folder_name": "air filter fake",
+    "filename": "15.jpg"
+  },
+  {
+    "image_path": "dataset1/air filter og/13.jpg",
+    "part_type": "air_filter",
+    "claimed_label": "real",
+    "folder_name": "air filter og",
+    "filename": "13.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug og/39.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "real",
+    "folder_name": "spark plug og",
+    "filename": "39.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet og/46.jpg",
+    "part_type": "helmet",
+    "claimed_label": "real",
+    "folder_name": "helmet og",
+    "filename": "46.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug fake/21.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "fake",
+    "folder_name": "spark plug fake",
+    "filename": "21.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet og/64.jpg",
+    "part_type": "helmet",
+    "claimed_label": "real",
+    "folder_name": "helmet og",
+    "filename": "64.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet og/19.jpg",
+    "part_type": "helmet",
+    "claimed_label": "real",
+    "folder_name": "helmet og",
+    "filename": "19.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug og/55.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "real",
+    "folder_name": "spark plug og",
+    "filename": "55.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug og/48.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "real",
+    "folder_name": "spark plug og",
+    "filename": "48.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug fake/54.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "fake",
+    "folder_name": "spark plug fake",
+    "filename": "54.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug fake/23.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "fake",
+    "folder_name": "spark plug fake",
+    "filename": "23.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug fake/24.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "fake",
+    "folder_name": "spark plug fake",
+    "filename": "24.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet fake/54.jpg",
+    "part_type": "helmet",
+    "claimed_label": "fake",
+    "folder_name": "helmet fake",
+    "filename": "54.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet og/6.jpg",
+    "part_type": "helmet",
+    "claimed_label": "real",
+    "folder_name": "helmet og",
+    "filename": "6.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug fake/5.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "fake",
+    "folder_name": "spark plug fake",
+    "filename": "5.jpg"
+  },
+  {
+    "image_path": "dataset1/helmet og/39.jpg",
+    "part_type": "helmet",
+    "claimed_label": "real",
+    "folder_name": "helmet og",
+    "filename": "39.jpg"
+  },
+  {
+    "image_path": "dataset1/air filter og/82.jpg",
+    "part_type": "air_filter",
+    "claimed_label": "real",
+    "folder_name": "air filter og",
+    "filename": "82.jpg"
+  },
+  {
+    "image_path": "dataset1/air filter fake/29.jpg",
+    "part_type": "air_filter",
+    "claimed_label": "fake",
+    "folder_name": "air filter fake",
+    "filename": "29.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug fake/59.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "fake",
+    "folder_name": "spark plug fake",
+    "filename": "59.jpg"
+  },
+  {
+    "image_path": "dataset1/air filter og/23.jpg",
+    "part_type": "air_filter",
+    "claimed_label": "real",
+    "folder_name": "air filter og",
+    "filename": "23.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug og/103.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "real",
+    "folder_name": "spark plug og",
+    "filename": "103.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug og/50.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "real",
+    "folder_name": "spark plug og",
+    "filename": "50.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug og/60.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "real",
+    "folder_name": "spark plug og",
+    "filename": "60.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug og/72.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "real",
+    "folder_name": "spark plug og",
+    "filename": "72.jpg"
+  },
+  {
+    "image_path": "dataset1/air filter og/25.jpg",
+    "part_type": "air_filter",
+    "claimed_label": "real",
+    "folder_name": "air filter og",
+    "filename": "25.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug fake/20.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "fake",
+    "folder_name": "spark plug fake",
+    "filename": "20.jpg"
+  },
+  {
+    "image_path": "dataset1/spark plug fake/63.jpg",
+    "part_type": "spark_plug",
+    "claimed_label": "fake",
+    "folder_name": "spark plug fake",
+    "filename": "63.jpg"
+  },
+  {
+    "image_path": "dataset1/air filter fake/10.jpg",
+    "part_type": "air_filter",
+    "claimed_label": "fake",
+    "folder_name": "air filter fake",
+    "filename": "10.jpg"
+  }
+]
